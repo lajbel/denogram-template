@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "null",
+    "cf-request-id": "0a85951b39000011ab0ab2a000000001",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Sat, 29 Aug 2020 20:03:21 GMT",
+    "date": "Mon, 07 Jun 2021 01:00:14 GMT",
+    "accept-ranges": "bytes",
+    "x-amz-request-id": "F471XCM5JNNJZ36V",
+    "content-length": "18555",
+    "etag": "\"c2b820d97052171b7817d10f935dc422\"",
+    "cf-cache-status": "MISS",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "cloudflare",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "vary": "Accept-Encoding",
+    "cf-ray": "65b5f13ebc3411ab-ORD",
+    "x-amz-id-2": "zsTGS2NhW+OGn1UpizYzK0m0RVGMJQP8ZP1PPbG7xf+jhcMg5l0hPgnUxX04+oz7NyshMhu4KAs="
+  },
+  "url": "https://deno.land/x/telegram@v0.1.1/types.ts"
+}

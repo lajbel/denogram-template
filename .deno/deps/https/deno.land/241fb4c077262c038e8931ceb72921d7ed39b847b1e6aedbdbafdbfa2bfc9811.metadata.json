@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-cache-status": "MISS",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "date": "Mon, 07 Jun 2021 01:00:14 GMT",
+    "etag": "\"b34ec7b79aad185933bdfe786b8d1c9e\"",
+    "cf-ray": "65b5f13fce4e11ab-ORD",
+    "last-modified": "Sat, 29 Aug 2020 20:03:21 GMT",
+    "accept-ranges": "bytes",
+    "cf-request-id": "0a85951bda000011ab5e1a6000000001",
+    "x-amz-id-2": "9ZQvjRqlNhPu+tW2RLi0EsMZu7BNIZGzeRtgK1eQUo0abcHhqDp6WwGrSbmnxWEaoUyAZvqeBvQ=",
+    "x-amz-version-id": "null",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-request-id": "F4773M97GQNXM19K",
+    "content-length": "198",
+    "access-control-allow-origin": "*",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding"
+  },
+  "url": "https://deno.land/x/telegram@v0.1.1/_util/mod.ts"
+}
