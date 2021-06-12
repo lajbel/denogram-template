@@ -1,4 +1,4 @@
-import { commands } from '../index.ts';
+import { commands } from '../mod.ts';
 
 export default (bot: any, ctx: any) => {
     if (ctx.message.text.startsWith("/")) {

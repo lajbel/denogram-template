@@ -272,8 +272,8 @@
         "affectsGlobalScope": true
       },
       "file:///home/runner/Deno-Telegram-Bot-Template/commands/ping.ts": {
-        "version": "ffcdc600dc8b62cc6bbf3403324151b8c74ffc9f4070b1fd659e92af8a15e8b9",
-        "signature": "a454379e9e5d7175c8a6b5fdcd3c86a9dee31a27e4578b25f6daeebb193806da",
+        "version": "a8ae96656bd7bdf8c1599cf7b24b5ec5c8886a926fdfb17d370cacd42c9f04c6",
+        "signature": "023b785767d2201515499ba6b87f2cd32d011f1a1c88f5525afb200bfb210475",
         "affectsGlobalScope": false
       }
     },
