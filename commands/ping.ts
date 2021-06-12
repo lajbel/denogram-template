@@ -1,4 +1,6 @@
 export default {
     name: "ping",
-    run: () => console.log("a")
-}
+    run: (bot: any, ctx: any, args: string[]) => {
+        ctx.reply("Pong!")
+    }
+};

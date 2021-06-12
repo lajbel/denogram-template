@@ -1,0 +1,572 @@
+{
+  "program": {
+    "fileInfos": {
+      "asset:///lib.es5.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2015.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": false
+      },
+      "asset:///lib.es2016.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": false
+      },
+      "asset:///lib.es2017.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": false
+      },
+      "asset:///lib.es2018.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": false
+      },
+      "asset:///lib.es2019.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": false
+      },
+      "asset:///lib.es2020.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": false
+      },
+      "asset:///lib.esnext.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": false
+      },
+      "asset:///lib.es2015.core.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2015.collection.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2015.generator.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2015.iterable.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2015.promise.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2015.proxy.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2015.reflect.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2015.symbol.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2015.symbol.wellknown.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2016.array.include.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2017.object.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2017.sharedmemory.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2017.string.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2017.intl.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2017.typedarrays.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2018.asyncgenerator.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2018.asynciterable.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2018.intl.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2018.promise.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2018.regexp.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2019.array.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2019.object.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2019.string.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2019.symbol.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2020.bigint.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2020.promise.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2020.sharedmemory.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2020.string.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2020.symbol.wellknown.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.es2020.intl.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.esnext.intl.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.esnext.string.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.esnext.promise.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.esnext.weakref.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.window.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.shared_globals.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.ns.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.file.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.console.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.url.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.webgpu.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.websocket.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.webstorage.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.web.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.crypto.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "asset:///lib.deno.fetch.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "https://deno.land/x/telegram@v0.1.1/_util/mod.ts": {
+        "version": "da7bd71bcbba98653f64f2759ff1aad24347db641d9a1d59513488ed23ab3185",
+        "signature": "8475c03bc5fe558cb541ecc0cee3a6bb0e1bf19162d759f69b2c6bcb2c963687",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/_util/logger.ts": {
+        "version": "3f118dc0f006856c8ee4b5d13f90372a69cfd4667900770e7762ca918fc0cde3",
+        "signature": "c8020e374be18550ccf3dbaa19631355c3a307b4eef35e4d7de498f23bdaca68",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/types.ts": {
+        "version": "31e9cda2c4a7e2afcd60ceefeba40c89ebea1aae0a28d816281b15542d86eada",
+        "signature": "2ec3c39996e09425334aff44da3ed67ea6f0907f32222b70b378cab2e87ae716",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/error.ts": {
+        "version": "fac3a935997fec58df16ab5da97376890d32bf1bb329c7f65dcb9a84a39d20bb",
+        "signature": "efce6d9d2632074ecd1d16934063551fea33b98022b6ddf4621cfdcfad21a32c",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/client.ts": {
+        "version": "7fd4c25189bc485f49b870625a81881521b6908a400819dab1d8735772f7a30a",
+        "signature": "ec169c011bf6a618696a2781d46c23ec04c16cef4801ee6522958987021251b2",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/telegram.ts": {
+        "version": "233c42192a24f61a8becd1e24b9caf9be82bc9534338f636f2baa3cefacc665d",
+        "signature": "89f49a1f228b5b323b70b75327f345f5891ca476f1f6c2c5b25366b975be28dd",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/context.ts": {
+        "version": "5665704d32aa199c186c1aeb9871a73b8c6fbdaa66e65edc56c663f1f633f770",
+        "signature": "195b130da9234cb87e35de337474a531affff51f6b97f11428b29e60fbbb5468",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/composer.ts": {
+        "version": "c1d90cf2cf0d621c2497bc5434ced8e411c673149c2fb56b21a96ac002b2a5cd",
+        "signature": "f0da8fbf6143a7525a11be8be0e382f0ddf629e70d02edd5b9bd8f719c1b53b7",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/encoding/utf8.ts": {
+        "version": "6ddb841ae99a1659c3f594e5400b74a0abfec5f1db90f604ab8e1099e7c48c7f",
+        "signature": "79570a09aebc7f96cc393caa7744e8188cfb67ca297efb4fa7c36aad7e180dd9",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/bytes/mod.ts": {
+        "version": "417345a60fa52e450afaa236c56cfd7d992791b75e786ed69ead6f31bcab48ae",
+        "signature": "06b057ec517499303a0ed3434fead4889371536dd389b7abcbcdc1691aca8f7e",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/_util/assert.ts": {
+        "version": "f381b1534efed4769c0ed53af78a01af5361bab7f10a66716aff91cea4fdc327",
+        "signature": "f5a3e417fd0dcabb8ff163e95a982db533a396fe70436b99f29d554e59b7c0e0",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/io/bufio.ts": {
+        "version": "cf8cd99a5c1554b6b87084cdc59d2ffa95ebb72ed4b0ba0cb388e02383ef39c0",
+        "signature": "a3241587243a00f460013d94fd3fc73b1903611ff077daf29bc9ccd9b2e64881",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/async/deferred.ts": {
+        "version": "103200ea75246b176f12d39bdad7d83aa3d0657878ed4fac626458513944c176",
+        "signature": "7c8a4a154d69ec0eade5e5c18f054a7ecca0e09f5baa940336e529144fa4cefc",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/async/delay.ts": {
+        "version": "165ecd14461a00a11ed7cdfc41e47f569c2f3fbc5eed3a8155e84aa3d157559a",
+        "signature": "0d60a4b04f0b8768d17acce07999a003b3619d4aee059853ecc4863088d9eab0",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/async/mux_async_iterator.ts": {
+        "version": "ab8bc73146cd0963f7ca7fdee2d3e18603be0c93530f7718ada55af8604182c0",
+        "signature": "407686b709e5e0c7a2660e44c8014cdc2899bc14988dd43438b07c63031bd846",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/async/mod.ts": {
+        "version": "f2f320e38fb92bf9fe48c1e17b40753b9325fea62b5cb70e43b5395a3866df90",
+        "signature": "ad4af47af3e217349cf3136a3491b197929a6beb42647cbdceb5c5afcdc59e95",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/textproto/mod.ts": {
+        "version": "7946c4805d2d339ff00b2b122d9b17ca07076cef46a34c5be29a37a6c9045b3c",
+        "signature": "99c964846aa625d83003803f587eaf63536a3b0fac5388d3162ed8d7460342c1",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/http/http_status.ts": {
+        "version": "8a44a7d9de02d11be3227dd7a86263b9d4ec3f9781f0151eb8fba1e2b75426e6",
+        "signature": "69c138255b8789daf0dd8d77c3cf025b4bb1a7afa55e8773d6b03247e27d835e",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/http/_io.ts": {
+        "version": "6f968ae47fa178673e31cc48003ca15231dbbfaf5ad0bf2c434f3f0f19184a7b",
+        "signature": "74cb933259c80bc77103ae47eebf7dc3c52669d45b27d1200dc079766e290ee0",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.60.0/http/server.ts": {
+        "version": "13997387c45343f493ec2d3c7fec6525d301fac132c5118b3c6c768447d46bec",
+        "signature": "e4de47602ded3f7c45eef10b7f4cbd951c8b0842b4345808b45636664456f13a",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/deps.ts": {
+        "version": "839ef8ca890f0f44e2d75f8a78d5a4e6ff9823df5a84ffdf47fe78c4c303ded7",
+        "signature": "5ed9a144757faa219885a47c65a0921a2bc1f9c47f61d881659501c5a4d0ef62",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/webhook_server.ts": {
+        "version": "3b6e5e4c6a40665641547ce120f9d4dc345077e9243c6b26347811e536bcf3fa",
+        "signature": "0165e6a0d769a692d80d6a93363a15dbee01b7a025d666c09bf5c181062f0434",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/bot.ts": {
+        "version": "f1db8942117b7fafa01f984073efdd90a2b3a719e5a6a90f857f29929cdee499",
+        "signature": "87d15cb1b5798d2532dfb87fa64bba8254c8b86b34fba5b42657d71c53b69729",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/x/telegram@v0.1.1/mod.ts": {
+        "version": "776fcdf053d0903cfcd43741ef534d2adf10883d17699c65a17589c1516fcb5c",
+        "signature": "de987eb2c2f4eed40216d655e97aef7d55ca15ec991ddac2f9a5729282605162",
+        "affectsGlobalScope": false
+      },
+      "file:///home/runner/Deno-Telegram-Bot-Template/index.ts": {
+        "version": "4218bf037671f83a4922b6b725ce02aa3e682a4fb7e059a9ee9f35370007ac06",
+        "signature": "14ab23766720e8d42f6523224a6af15472c651d645917ccf2a19c4203a262647",
+        "affectsGlobalScope": false
+      },
+      "file:///home/runner/Deno-Telegram-Bot-Template/events/message.ts": {
+        "version": "02d68b8a241c5c3c1401d08f77fd0cd17b74db6acc96f87d071fbe000928b597",
+        "signature": "df5bb324b596ff6d9c0d0c2bbedf5d117e03ac0f5aca34815aef10b6e1db368b",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "allowJs": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "incremental": true,
+      "jsx": 2,
+      "isolatedModules": true,
+      "lib": [
+        "lib.deno.window.d.ts"
+      ],
+      "module": 99,
+      "strict": true,
+      "target": 99,
+      "tsBuildInfoFile": "./.tsbuildinfo",
+      "useDefineForClassFields": true,
+      "emitDecoratorMetadata": false,
+      "importsNotUsedAsValues": 0,
+      "inlineSourceMap": true,
+      "outDir": "deno://",
+      "removeComments": true,
+      "allowNonTsExtensions": true
+    },
+    "referencedMap": {
+      "file:///home/runner/Deno-Telegram-Bot-Template/events/message.ts": [
+        "file:///home/runner/Deno-Telegram-Bot-Template/index.ts"
+      ],
+      "file:///home/runner/Deno-Telegram-Bot-Template/index.ts": [
+        "https://deno.land/x/telegram@v0.1.1/mod.ts"
+      ],
+      "https://deno.land/std@0.60.0/async/mod.ts": [
+        "https://deno.land/std@0.60.0/async/deferred.ts",
+        "https://deno.land/std@0.60.0/async/delay.ts",
+        "https://deno.land/std@0.60.0/async/mux_async_iterator.ts"
+      ],
+      "https://deno.land/std@0.60.0/async/mux_async_iterator.ts": [
+        "https://deno.land/std@0.60.0/async/deferred.ts"
+      ],
+      "https://deno.land/std@0.60.0/http/_io.ts": [
+        "https://deno.land/std@0.60.0/_util/assert.ts",
+        "https://deno.land/std@0.60.0/encoding/utf8.ts",
+        "https://deno.land/std@0.60.0/http/http_status.ts",
+        "https://deno.land/std@0.60.0/http/server.ts",
+        "https://deno.land/std@0.60.0/io/bufio.ts",
+        "https://deno.land/std@0.60.0/textproto/mod.ts"
+      ],
+      "https://deno.land/std@0.60.0/http/server.ts": [
+        "https://deno.land/std@0.60.0/_util/assert.ts",
+        "https://deno.land/std@0.60.0/async/mod.ts",
+        "https://deno.land/std@0.60.0/encoding/utf8.ts",
+        "https://deno.land/std@0.60.0/http/_io.ts",
+        "https://deno.land/std@0.60.0/io/bufio.ts"
+      ],
+      "https://deno.land/std@0.60.0/io/bufio.ts": [
+        "https://deno.land/std@0.60.0/_util/assert.ts",
+        "https://deno.land/std@0.60.0/bytes/mod.ts"
+      ],
+      "https://deno.land/std@0.60.0/textproto/mod.ts": [
+        "https://deno.land/std@0.60.0/bytes/mod.ts",
+        "https://deno.land/std@0.60.0/encoding/utf8.ts",
+        "https://deno.land/std@0.60.0/io/bufio.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/_util/logger.ts": [
+        "https://deno.land/x/telegram@v0.1.1/_util/mod.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/_util/mod.ts": [
+        "https://deno.land/x/telegram@v0.1.1/_util/logger.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/bot.ts": [
+        "https://deno.land/x/telegram@v0.1.1/_util/mod.ts",
+        "https://deno.land/x/telegram@v0.1.1/composer.ts",
+        "https://deno.land/x/telegram@v0.1.1/context.ts",
+        "https://deno.land/x/telegram@v0.1.1/telegram.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts",
+        "https://deno.land/x/telegram@v0.1.1/webhook_server.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/client.ts": [
+        "https://deno.land/x/telegram@v0.1.1/error.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/composer.ts": [
+        "https://deno.land/x/telegram@v0.1.1/context.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/context.ts": [
+        "https://deno.land/x/telegram@v0.1.1/telegram.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/deps.ts": [
+        "https://deno.land/std@0.60.0/http/server.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/mod.ts": [
+        "https://deno.land/x/telegram@v0.1.1/bot.ts",
+        "https://deno.land/x/telegram@v0.1.1/client.ts",
+        "https://deno.land/x/telegram@v0.1.1/composer.ts",
+        "https://deno.land/x/telegram@v0.1.1/context.ts",
+        "https://deno.land/x/telegram@v0.1.1/error.ts",
+        "https://deno.land/x/telegram@v0.1.1/telegram.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts",
+        "https://deno.land/x/telegram@v0.1.1/webhook_server.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/telegram.ts": [
+        "https://deno.land/x/telegram@v0.1.1/client.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/webhook_server.ts": [
+        "https://deno.land/x/telegram@v0.1.1/_util/mod.ts",
+        "https://deno.land/x/telegram@v0.1.1/deps.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "https://deno.land/std@0.60.0/async/mod.ts": [
+        "https://deno.land/std@0.60.0/async/deferred.ts",
+        "https://deno.land/std@0.60.0/async/delay.ts",
+        "https://deno.land/std@0.60.0/async/mux_async_iterator.ts"
+      ],
+      "https://deno.land/std@0.60.0/http/_io.ts": [
+        "https://deno.land/std@0.60.0/http/server.ts",
+        "https://deno.land/std@0.60.0/io/bufio.ts"
+      ],
+      "https://deno.land/std@0.60.0/http/server.ts": [
+        "https://deno.land/std@0.60.0/async/mod.ts",
+        "https://deno.land/std@0.60.0/io/bufio.ts"
+      ],
+      "https://deno.land/std@0.60.0/textproto/mod.ts": [
+        "https://deno.land/std@0.60.0/io/bufio.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/_util/mod.ts": [
+        "https://deno.land/x/telegram@v0.1.1/_util/logger.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/bot.ts": [
+        "https://deno.land/x/telegram@v0.1.1/composer.ts",
+        "https://deno.land/x/telegram@v0.1.1/context.ts",
+        "https://deno.land/x/telegram@v0.1.1/telegram.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/composer.ts": [
+        "https://deno.land/x/telegram@v0.1.1/context.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/context.ts": [
+        "https://deno.land/x/telegram@v0.1.1/telegram.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/deps.ts": [
+        "https://deno.land/std@0.60.0/http/server.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/mod.ts": [
+        "https://deno.land/x/telegram@v0.1.1/bot.ts",
+        "https://deno.land/x/telegram@v0.1.1/client.ts",
+        "https://deno.land/x/telegram@v0.1.1/composer.ts",
+        "https://deno.land/x/telegram@v0.1.1/context.ts",
+        "https://deno.land/x/telegram@v0.1.1/error.ts",
+        "https://deno.land/x/telegram@v0.1.1/telegram.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts",
+        "https://deno.land/x/telegram@v0.1.1/webhook_server.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/telegram.ts": [
+        "https://deno.land/x/telegram@v0.1.1/client.ts",
+        "https://deno.land/x/telegram@v0.1.1/types.ts"
+      ],
+      "https://deno.land/x/telegram@v0.1.1/webhook_server.ts": [
+        "https://deno.land/x/telegram@v0.1.1/types.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": []
+  },
+  "version": "4.2.2"
+}
