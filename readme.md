@@ -1,4 +1,4 @@
-# Deno-Telegram-Bot-Template
+# Deno Telegram Bot Template
 
 Template for Telegram using deno 
 
