@@ -1,13 +1,16 @@
 // Import libs
 
-import { Bot, Context } from 'https://deno.land/x/telegram@v0.1.1/mod.ts';
+import { Bot, Context, Telegram } from 'https://deno.land/x/telegram@v0.1.1/mod.ts';
 
 // Start bot
 
 const token: string = Deno.env.get('TOKEN')!; // Get Token
 const bot: any = new Bot(token); 
+const telegram = new Telegram(token);
 
 export const commands = new Map() // Commands collection for the command handler!
+
+const commandsForList: any[] = []; // Command for add to list
 
 // Command Handler
 
@@ -18,6 +21,7 @@ for await (const dir of Deno.readDir('./commands')) {
             const name: string = content.name;
 
             commands.set(name, content);
+            commandsForList.push({command: name, description: content.description});
         });
     };
 };
@@ -36,3 +40,6 @@ for await (const dir of Deno.readDir('./events')) {
 };
 
 bot.launch(); // Launch Bot 
+
+telegram.setMyCommands(commandsForList) // Set commands in telegram
+

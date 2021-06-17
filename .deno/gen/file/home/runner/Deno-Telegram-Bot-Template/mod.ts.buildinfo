@@ -271,6 +271,11 @@
         "signature": "1",
         "affectsGlobalScope": true
       },
+      "https://deno.land/x/telegram@v0.1.1/types.ts": {
+        "version": "31e9cda2c4a7e2afcd60ceefeba40c89ebea1aae0a28d816281b15542d86eada",
+        "signature": "2ec3c39996e09425334aff44da3ed67ea6f0907f32222b70b378cab2e87ae716",
+        "affectsGlobalScope": false
+      },
       "https://deno.land/std@0.60.0/encoding/utf8.ts": {
         "version": "6ddb841ae99a1659c3f594e5400b74a0abfec5f1db90f604ab8e1099e7c48c7f",
         "signature": "79570a09aebc7f96cc393caa7744e8188cfb67ca297efb4fa7c36aad7e180dd9",
@@ -346,11 +351,6 @@
         "signature": "ec169c011bf6a618696a2781d46c23ec04c16cef4801ee6522958987021251b2",
         "affectsGlobalScope": false
       },
-      "https://deno.land/x/telegram@v0.1.1/types.ts": {
-        "version": "31e9cda2c4a7e2afcd60ceefeba40c89ebea1aae0a28d816281b15542d86eada",
-        "signature": "2ec3c39996e09425334aff44da3ed67ea6f0907f32222b70b378cab2e87ae716",
-        "affectsGlobalScope": false
-      },
       "https://deno.land/x/telegram@v0.1.1/telegram.ts": {
         "version": "233c42192a24f61a8becd1e24b9caf9be82bc9534338f636f2baa3cefacc665d",
         "signature": "89f49a1f228b5b323b70b75327f345f5891ca476f1f6c2c5b25366b975be28dd",
@@ -392,8 +392,8 @@
         "affectsGlobalScope": false
       },
       "file:///home/runner/Deno-Telegram-Bot-Template/mod.ts": {
-        "version": "8125a27a8a59a0c8ef479e14cfb7b30c89bca3ac4615bbd73c57c19362bc8306",
-        "signature": "d5b8afa65bd314afe26063c419755b16b45ee8ecd765d2e522152ed41ab8982e",
+        "version": "8b1d8068ca481aed7ef446facaf60756acb91a22e87c9a78134a1985ac33102b",
+        "signature": "2d14e6c6104d3e0c6148b5ef4a9a68ed40b524ae96a6a04e608662cd069a549a",
         "affectsGlobalScope": false
       }
     },
